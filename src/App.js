@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <p className="moving-text">This is some moving text!</p>
       <Body />
     </div>
   );

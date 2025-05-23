@@ -4,3 +4,8 @@
   box-sizing: border-box;
   font-family: sans-serif;
 }
+
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
